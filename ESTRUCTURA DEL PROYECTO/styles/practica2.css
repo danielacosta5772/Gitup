@@ -1,0 +1,50 @@
+h2{
+  background-color: #CCC;
+  font-size: 70px;
+  color: #000;
+  width: 100%;
+  text-align: center;
+}
+.p1{
+    font-size: 40px;
+}
+
+.p2{
+    font-size: small;
+}
+
+.p3{
+    font-size: medium;
+}
+
+.p4{
+    font-size: large;
+}
+
+.p5{
+    font-size: xx-large;
+}
+
+.p6{
+    font-size: xx-small;
+}
+
+.p7{
+    font-size: 2%;
+}
+
+.p8{
+    font-size: 20%;
+}
+
+.p9{
+    font-size: 80%;
+}
+
+.p10{
+    font-size: 200%;
+}
+
+.p11{
+    font-size: 300%;
+}
